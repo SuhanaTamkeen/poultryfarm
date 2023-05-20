@@ -1,9 +1,6 @@
 # poultryfarm
 This is my Future Ready Talent project.Azure Link:
 
-# poultry-
-This is my future ready talent project. Azure link:https://poultryfarm.z7.web.core.windows.net/
-
 # Problem Statement:
 A company wants to build a sample Front End prototype of poultry field website for the online selling industry, that has been growing at an incredible rate, and so have various challenges. To build a whole website they have chosen the Azure Cloud Platform. Build a website that has: Home Page,About us,services, and Contact us Page on the Website.
 
